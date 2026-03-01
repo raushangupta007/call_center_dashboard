@@ -10,7 +10,7 @@ The dashboard provides performance monitoring across call volume, duration, sent
 
 This project demonstrates an end-to-end analytics workflow:-
 
-✅ Data collection and preprocessing with Python
+✅ Data collection and preprocessing with Python 
 
 ✅ Data storage and validation in Excel
 
